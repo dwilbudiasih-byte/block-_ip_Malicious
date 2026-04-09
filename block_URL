@@ -1,0 +1,7 @@
+http://130.194.6.228/apt.tar.gz
+http://130.194.6.228/update.tar.gz
+http://130.194.6.228/amp.tar.gz
+https://sheets.googleapis.com/v4/spreadsheets/<GoogleSheetID>/values/A1?valueRenderOption=FORMULA
+https://sheets.googleapis.com/v4/spreadsheets/<GoogleSheetID>/values:batchClear
+https://sheets.googleapis.com/v4/spreadsheets/<GoogleSheetID>/values:batchUpdate
+https://sheets.googleapis.com/v4/spreadsheets/<GoogleSheetID>/values/A1?valueRenderOption=FORMULA
